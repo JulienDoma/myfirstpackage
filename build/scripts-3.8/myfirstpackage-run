@@ -1,0 +1,6 @@
+#!python
+# -*- coding: utf-8 -*-
+
+from myfirstpackage.lib import who_i_am
+
+who_i_am()
